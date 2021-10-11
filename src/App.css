@@ -4,9 +4,18 @@
   align-items:flex-end;
   justify-content:flex-end;
   margin-right: 20px;
+  background-color: rgb(61, 61, 61);
+  width: 100%;
+  height: 40px;;
   
 }
 li{
   list-style: none;
   padding-right: 20px;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color: aliceblue;
 }
